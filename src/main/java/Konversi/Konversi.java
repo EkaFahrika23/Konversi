@@ -68,7 +68,5 @@ public static void detikKeHari(long detik){
     
     
     
-    
-    
 }
 
